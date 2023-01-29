@@ -10,3 +10,5 @@ from matasdklj import asdas
 $$
 a=\dfrac{1}{2}
 $$
+
+ahora si tenemos un NB en el que debemos tener esto y asi
